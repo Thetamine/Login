@@ -1,0 +1,1 @@
+<?php echo "Record successfully created. Welcome home!" ?>
